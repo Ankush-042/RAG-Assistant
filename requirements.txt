@@ -1,0 +1,15 @@
+streamlit
+pdfplumber
+sentence-transformers  # Also used for cross-encoder re-ranking
+chromadb
+pandas
+openpyxl
+python-docx
+numpy
+transformers
+torch
+fireworks-ai
+openai
+#pysqlite3-binary
+scikit-learn
+rich
