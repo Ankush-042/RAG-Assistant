@@ -9,6 +9,7 @@ Finds the most relevant information using advanced AI
 Gives you a clear, accurate answer
 
 STEPS TO EXECUTE PROJECT SMOOTHLY
+
 1️⃣ Step 1: Install Python
 Download and install Python 3.8 or newer
 
@@ -33,6 +34,6 @@ Copy your API key
 
 streamlit run app_clean.py 
 
-our web browser will open automatically, or go to http://localhost:8501
+ web browser will open automatically, or go to http://localhost:8501
 
 OR USE DIRECT WORKING LINK : https://appt-rzekemavw7qbpsuwibh9pj.streamlit.app/
